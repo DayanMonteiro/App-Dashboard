@@ -1,2 +1,4 @@
 # App-Dashboard
-Projeto pequeno com PHP - Ajax - jQuery
+Projeto pequeno com Javascript - Ajax - jQuery
+
+
