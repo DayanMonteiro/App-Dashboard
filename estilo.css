@@ -12,3 +12,17 @@
 	width: 90px;
 	height: 90px;
 }
+
+/* para fazer o mosquito virar
+realizamos um flip perbeba que 
+ao inverter pra -1 no ladoB eu 
+tenho esse efeito */
+.ladoA {
+	transform: scaleX(1);
+}
+
+.ladoB {
+	transform: scaleX(-1);
+}
+
+
